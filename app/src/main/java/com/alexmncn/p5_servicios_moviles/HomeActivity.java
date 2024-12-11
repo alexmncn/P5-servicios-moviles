@@ -42,7 +42,7 @@ public class HomeActivity extends AppCompatActivity {
         cerrarSesion.setOnClickListener(view-> {
             // Cerrar sesion en Firebase y volver a la actividad anterior
             FirebaseAuth.getInstance().signOut();
-            super.getOnBackPressedDispatcher();
+            super.getOnBackPressedDispatcher().onBackPressed();
         });
     }
 }

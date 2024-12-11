@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.alexmncn.p5_servicios_moviles" />
-                  <option name="mobileSdkAppId" value="1:908159199072:android:cc243965053f67ab7fa005" />
-                  <option name="projectId" value="p5-servicios-moviles" />
-                  <option name="projectNumber" value="908159199072" />
+                  <option name="mobileSdkAppId" value="1:494597834076:android:2dfdeeb08700759f0eed99" />
+                  <option name="projectId" value="servicios-moviles-4b7bd" />
+                  <option name="projectNumber" value="494597834076" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
